@@ -39,9 +39,6 @@
   <a href="https://linkedin.com/in/balakiyem-maxime-aledi-32997831b">LinkedIn</a>
 </p>
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true)
-
 
 <!--
 **Donmaxime/Donmaxime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
