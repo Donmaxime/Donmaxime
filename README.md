@@ -36,7 +36,7 @@
 ## 🌐 Connect with me
 <p>
   <a href="https://gitlab.com/Donmaxime">GitLab</a>
-  <a href="www.linkedin.com/in/balakiyem-maxime-aledi-32997831b">LinkedIn</a>
+  <a href="https://linkedin.com/in/balakiyem-maxime-aledi-32997831b">LinkedIn</a>
 </p>
 
 
