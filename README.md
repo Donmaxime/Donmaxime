@@ -1,6 +1,6 @@
-## Hi, I'm ALEDI Balakiyem Maxime.
+## 👋 Hi, I'm ALEDI Balakiyem Maxime.
 
-🚀 Aspiring Full-Stack Developer: React, Next.js, Django, Tailwind CSS.
+🚀 **Aspiring Full-Stack Developer** specializing in **React, Next.js, Django, Tailwind CSS**.
 
 🌍 Based in Lomé, Togo.
 
@@ -38,6 +38,9 @@
   <a href="https://gitlab.com/Donmaxime">GitLab</a>
   <a href="https://linkedin.com/in/balakiyem-maxime-aledi-32997831b">LinkedIn</a>
 </p>
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true)
 
 
 <!--
